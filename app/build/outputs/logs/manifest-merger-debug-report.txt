@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [:library] E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\b80f4cf678533a8c1bc7ef7f5f792b88\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\96efb6c38d2da51b82ca4ae906a6e7f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\dcd460ac23de2680af6f140561360a0b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\92d052dece036ef503ce3d9847884bde\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\6158982a12fbd9541bd244bf6c14fda9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\25924c821689b52324ab5dcb2d88a713\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\40cfefb120fe16699af5b76b674510c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\dbb2a64fe9f829435bfcbbe71cd70fd5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\1a6b602b553e0c9d204f347b166f3cdf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\16f1c18f45cee707fe6c3f9975078a06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\f4ed1ab556f690e74d2209bd016d2e93\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\982d4c7577d365ee027e8b993ce1207b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\9e28c40173e2ba9e715bee9017e182eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\4e530d38dd8bb95e2fcee7b60e2da5b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\221836945b9bff7b2559e2fb9d6b08f3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\086ccd0fc758c272cca653cce5bd693b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\8b2b99dfdef749bca2d5b9996e9fb073\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\d06c312d0e1652e45d8b9f3e34b92b62\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\bb99af87cd46f44e4ac736236506bb6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\e8e16f4c47237688a827cb88b47ecd54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\903c03e86e0dd2429b82271703834c6e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\a62170a52d3430894def94a03f67ef25\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\1c213c01f2d34c70aca36ab14ef30cb8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\596fd870b417b9f896cf3eb02b698a7c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\0c8cd2fcea17a4280cffcac82dd7d902\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\dc98966390a5d5003710c6c4bbebe417\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\221836945b9bff7b2559e2fb9d6b08f3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\221836945b9bff7b2559e2fb9d6b08f3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\086ccd0fc758c272cca653cce5bd693b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\086ccd0fc758c272cca653cce5bd693b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\221836945b9bff7b2559e2fb9d6b08f3\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.netease.eventbus.reflection.SecondActivity
+ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:12:9-61
+	android:name
+		ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:12:19-49
+activity#com.netease.eventbus.reflection.MainActivity
+ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml
+MERGED from [:library] E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:library] E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\b80f4cf678533a8c1bc7ef7f5f792b88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\b80f4cf678533a8c1bc7ef7f5f792b88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\96efb6c38d2da51b82ca4ae906a6e7f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\96efb6c38d2da51b82ca4ae906a6e7f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\dcd460ac23de2680af6f140561360a0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\dcd460ac23de2680af6f140561360a0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\92d052dece036ef503ce3d9847884bde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\92d052dece036ef503ce3d9847884bde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\6158982a12fbd9541bd244bf6c14fda9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\6158982a12fbd9541bd244bf6c14fda9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\25924c821689b52324ab5dcb2d88a713\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\25924c821689b52324ab5dcb2d88a713\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\40cfefb120fe16699af5b76b674510c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\40cfefb120fe16699af5b76b674510c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\dbb2a64fe9f829435bfcbbe71cd70fd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\dbb2a64fe9f829435bfcbbe71cd70fd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\1a6b602b553e0c9d204f347b166f3cdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\1a6b602b553e0c9d204f347b166f3cdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\16f1c18f45cee707fe6c3f9975078a06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\16f1c18f45cee707fe6c3f9975078a06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\f4ed1ab556f690e74d2209bd016d2e93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\f4ed1ab556f690e74d2209bd016d2e93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\982d4c7577d365ee027e8b993ce1207b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\982d4c7577d365ee027e8b993ce1207b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\9e28c40173e2ba9e715bee9017e182eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\9e28c40173e2ba9e715bee9017e182eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\4e530d38dd8bb95e2fcee7b60e2da5b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\4e530d38dd8bb95e2fcee7b60e2da5b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\221836945b9bff7b2559e2fb9d6b08f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\221836945b9bff7b2559e2fb9d6b08f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\086ccd0fc758c272cca653cce5bd693b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\086ccd0fc758c272cca653cce5bd693b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\8b2b99dfdef749bca2d5b9996e9fb073\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\8b2b99dfdef749bca2d5b9996e9fb073\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\d06c312d0e1652e45d8b9f3e34b92b62\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\d06c312d0e1652e45d8b9f3e34b92b62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\bb99af87cd46f44e4ac736236506bb6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\bb99af87cd46f44e4ac736236506bb6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\e8e16f4c47237688a827cb88b47ecd54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\e8e16f4c47237688a827cb88b47ecd54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\903c03e86e0dd2429b82271703834c6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\903c03e86e0dd2429b82271703834c6e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\a62170a52d3430894def94a03f67ef25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\a62170a52d3430894def94a03f67ef25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\1c213c01f2d34c70aca36ab14ef30cb8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\1c213c01f2d34c70aca36ab14ef30cb8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\596fd870b417b9f896cf3eb02b698a7c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\596fd870b417b9f896cf3eb02b698a7c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\0c8cd2fcea17a4280cffcac82dd7d902\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\0c8cd2fcea17a4280cffcac82dd7d902\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\dc98966390a5d5003710c6c4bbebe417\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kangjj\.gradle\caches\transforms-2\files-2.1\dc98966390a5d5003710c6c4bbebe417\AndroidManifest.xml:20:5-44
+INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\netease_classroom\code_copy\3_Architect\3.1.2_write_eventbus_reflect\app\src\main\AndroidManifest.xml
