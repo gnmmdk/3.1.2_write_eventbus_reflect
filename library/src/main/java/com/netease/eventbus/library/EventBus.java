@@ -70,7 +70,7 @@ public class EventBus {
             // 找出系统类，直接跳出，不添加cacheMap（因为不是订阅者）
             String clazzName = clazz.getName();
             if (clazzName.startsWith("java.") || clazzName.startsWith("javax.")
-                    || clazzName.startsWith("android.")) {
+                    || clazzName.startsWith("android.")|| clazzName.startsWith("androidx.")) {
                 break;
             }
 
@@ -106,7 +106,7 @@ public class EventBus {
     }
 
     // SecondActivity发送消息
-    public void post(final Object setter) {
+    public void post(final Object setter) {//setter 对应EventBean 传递的参数
         // 订阅者已经登记，从登记表中找出
         Set<Object> set = cacheMap.keySet();
         // 比如获取MainActivity对象
